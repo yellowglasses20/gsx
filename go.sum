@@ -1,0 +1,5 @@
+github.com/google/go-querystring v1.0.0 h1:Xkwi/a1rcvNg1PPYe5vI8GbeBY/jrVuDX5ASuANWTrk=
+github.com/google/go-querystring v1.0.0/go.mod h1:odCYkC5MyYFN7vkCjXpyrEuKhc/BUO6wN/zVPAxq5ck=
+github.com/yellowGlasses20/gsx v0.0.0-20191220073741-95186b2ed0d9 h1:YJf9aUJ2SnvN1e373oWw1wb23vdPq+pgSKAvbq0h3l8=
+github.com/yellowglasses20/go-scrapbox v0.0.0-20191213040643-2ffa0156fbcb h1:0M3Xc0j/WnoUrQIjDXlVFRxBXMM86i7g+lDNfjGqOdU=
+github.com/yellowglasses20/go-scrapbox v0.0.0-20191213040643-2ffa0156fbcb/go.mod h1:TKvZtRxNWjO98d6mV2MosHNF7IJCjtyoVdFJRWQUVSE=
